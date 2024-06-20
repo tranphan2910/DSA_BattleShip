@@ -1,7 +1,7 @@
 # DSA_BattleShip
 A project for Algorithms &amp; Data Structures Course at International University - VNU.
 
-###  how to compile and run our code.
+###  How to compile and run our code. 🎮
 1. Open the terminal on your IDE
 2. Clone the repository
 ```
