@@ -1,4 +1,4 @@
-# DSA_BattleShip
+# BattleShip Game
 A project for Algorithms &amp; Data Structures Course at International University - VNU.
 
 ###  How to compile and run our code. 🎮
