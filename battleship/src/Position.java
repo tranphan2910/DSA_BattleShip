@@ -1,3 +1,12 @@
+/*
+ Name: Le Huynh Nha Nguyen
+ ID: ITDSIU21058
+ Position class:
+ It includes methods for manipulating positions, such as setting coordinates, adding and subtracting positions, calculating distances, and more.
+ The class also provides unit vectors for common directions (up, down, left, right, zero).
+*/
+
+
 public class Position {
     /**
      * Down moving unit vector.
