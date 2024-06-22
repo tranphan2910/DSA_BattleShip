@@ -1,3 +1,9 @@
+/**
+ * Name: Le Huynh Nha Nguyen
+ * ID: ITDSIU21058
+ * StatusPanel class:
+ * Defines a simple text panel to show a top and bottom line of text.
+ */
 import java.awt.*;
 
 public class StatusPanel extends Rectangle{
