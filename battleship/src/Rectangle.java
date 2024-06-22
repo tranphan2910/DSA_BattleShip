@@ -1,4 +1,11 @@
-
+/*
+  Name: Le Huynh Nha Nguyen
+  ID: ITDSIU21058
+  Game: Battleship
+  Rectangle Class:
+  A simple Rectangle with a position defined by the top left corner,
+  and a width,height to represent the size of the Rectangle
+ */
 public class Rectangle {
     protected Position position;
     protected int width;
