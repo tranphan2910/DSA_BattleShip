@@ -1,3 +1,12 @@
+/**
+ *Name: Le Huynh Nha Nguyen
+ *ID: ITDSIU21058
+ * SelectionGrid class:
+ * Defines the grid for storing Ships with a grid of markers to
+ * indicate hit/miss detection.
+ */
+
+
 import java.awt.*;
 import java.util.ArrayList;
 import java.util.List;
