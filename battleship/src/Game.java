@@ -1,3 +1,7 @@
+/* Name: Phan Bảo Trân
+ ID: ITDSIU21125
+ Purpose: The Game class sets up the Battleship game environment by initializing a graphical window with Swing components and allowing the player to choose the AI difficulty level through a dialog box. It creates a GamePanel to manage the game logic and rendering and sets up key listeners to handle user input during the game. The different AI difficulty levels provide varying challenges to the player, enhancing the gameplay experience.
+*/
 import javax.swing.*;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
