@@ -1,3 +1,12 @@
+/*
+ Name: Le Huynh Nha Nguyen
+ ID: ITDSIU21058
+ Marker class:
+ Represents a simple coloured rectangle that can be either
+ shown or hidden, and will change colour based on whether
+ it is representing the location where a ship is.
+ */
+
 import java.awt.*;
 
 
