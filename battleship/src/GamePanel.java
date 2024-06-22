@@ -1,3 +1,7 @@
+/* Name: Phan Bao Tran
+ ID: ITDSIU21125
+ Purpose: The GamePanel class provides the main interface and logic for playing a Battleship game. It manages the game states (placing ships, firing shots, and game over), handles user input via mouse and keyboard, and interacts with the AI to simulate the computer's moves. The game panel is responsible for rendering the game components and updating the status panel with game messages. This class integrates the core gameplay mechanics and ensures a smooth and interactive user experience.
+*/
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.KeyEvent;
